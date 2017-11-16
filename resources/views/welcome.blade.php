@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">欢迎来到 Laravel 5</div>
+                <div class="title"> 王东彦</div>
             </div>
         </div>
     </body>
